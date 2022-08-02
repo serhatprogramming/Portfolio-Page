@@ -264,3 +264,22 @@ img {
 #about-a [class^="award"] i {
   color: #ffbc00;
   margin: 1rem; }
+
+#about-b .skill-container .progress {
+  text-align: center;
+  overflow: hidden;
+  height: 15px;
+  background-color: #ccc;
+  border-radius: 5px;
+  margin-bottom: 0.3rem; }
+  #about-b .skill-container .progress div {
+    background-color: #ffbc00;
+    height: 100%; }
+
+#about-c .about-logos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem; }
+  #about-c .about-logos img {
+    width: 70%;
+    margin: 0 auto; }
