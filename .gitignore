@@ -3707,3 +3707,7 @@ package-lock.json
 package.json
 scss/_config.scss
 scss/_utilities.scss
+scss/_item_grid.scss
+scss/_media.scss
+scss/_item_grid.scss
+scss/_item_grid.scss
